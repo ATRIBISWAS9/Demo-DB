@@ -32,7 +32,8 @@ const getAllProducts = async(req, res) => {
     apiData = apiData.skip(skip).limit(limit);
 
     const ProductData = await apiData;
-    res.status(200).json({ProductData, nbHits: ProductData.length});
+    //res.status(200).json({ProductData, nbHits: ProductData.length});
+    res.status(200).json({ProductData});
 };
 
 module.exports = getAllProducts;
