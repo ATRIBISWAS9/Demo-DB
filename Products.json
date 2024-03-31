@@ -1,0 +1,46 @@
+[
+    {
+        "p_name": "KURTI",
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTR4MjHcNJZV_MLDyZ4NSEqWEBMx3ER5csfwqIZGgcB3mKhCs3wyFNuYsksYz2qSE6ZHMPUSLaEJtAHPrGw4UEDxEsx2AEl6BQsXRUq9tno&usqp=CAE",
+        "price": 2000,
+        "featured": true,
+        "catagory": "Womens Ware",
+        "rating": 4.5
+    },
+    {
+        "p_name": "KURTI",
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTR4MjHcNJZV_MLDyZ4NSEqWEBMx3ER5csfwqIZGgcB3mKhCs3wyFNuYsksYz2qSE6ZHMPUSLaEJtAHPrGw4UEDxEsx2AEl6BQsXRUq9tno&usqp=CAE",
+        "price": 2000,
+        "featured": true,
+        "catagory": "Womens Ware",
+        "rating": 4.5
+    },
+    {
+        "p_name": "KURTI",
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTR4MjHcNJZV_MLDyZ4NSEqWEBMx3ER5csfwqIZGgcB3mKhCs3wyFNuYsksYz2qSE6ZHMPUSLaEJtAHPrGw4UEDxEsx2AEl6BQsXRUq9tno&usqp=CAE",
+        "price": 2000,
+        "catagory": "Womens Ware",
+        "rating": 4.5
+    },
+    {
+        "p_name": "KURTI",
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTR4MjHcNJZV_MLDyZ4NSEqWEBMx3ER5csfwqIZGgcB3mKhCs3wyFNuYsksYz2qSE6ZHMPUSLaEJtAHPrGw4UEDxEsx2AEl6BQsXRUq9tno&usqp=CAE",
+        "price": 2000,
+        "catagory": "Womens Ware",
+        "rating": 4.5
+    },
+    {
+        "p_name": "KURTI",
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTR4MjHcNJZV_MLDyZ4NSEqWEBMx3ER5csfwqIZGgcB3mKhCs3wyFNuYsksYz2qSE6ZHMPUSLaEJtAHPrGw4UEDxEsx2AEl6BQsXRUq9tno&usqp=CAE",
+        "price": 2000,
+        "catagory": "Womens Ware",
+        "rating": 4.5
+    },
+    {
+        "p_name": "KURTA",
+        "img":"https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTR4MjHcNJZV_MLDyZ4NSEqWEBMx3ER5csfwqIZGgcB3mKhCs3wyFNuYsksYz2qSE6ZHMPUSLaEJtAHPrGw4UEDxEsx2AEl6BQsXRUq9tno&usqp=CAE",
+        "price": 2000,
+        "catagory": "Mens Ware",
+        "rating": 4.5
+    }
+ ]
