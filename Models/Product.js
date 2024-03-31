@@ -33,6 +33,10 @@ const productSchema = new mongoose.Schema({
     brand: {
         type: String,
         default: "Fashanista's Haven",
+    },
+    description: {
+        type: String,
+        required: true,
     }
 });
 
