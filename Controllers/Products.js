@@ -2,10 +2,10 @@ const Product = require("../Models/Product");
 
 const getAllProducts = async(req, res) => {
 
-    const {p_name, featured, catagory, sort, select} = req.query;
+    const {name, featured, catagory, sort, select} = req.query;
     const queryObject = {};
-    if(p_name){
-        queryObject.p_name = {$regex: p_name, $options: "i"};
+    if(name){
+        queryObject.name = {$regex: name, $options: "i"};
     }
     if(featured){
         queryObject.featured = featured;

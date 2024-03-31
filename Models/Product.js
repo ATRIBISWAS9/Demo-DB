@@ -2,11 +2,11 @@ const mongoose = require("mongoose");
 
 
 const productSchema = new mongoose.Schema({
-    p_name: {
+    name: {
         type: String,
         required: true,
     },
-    img: {
+    image: {
         type: String,
         required: true,
     },
