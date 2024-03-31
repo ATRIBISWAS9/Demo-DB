@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5000;
 const products_routes = require("./Routes/Product");
 
 app.get("/", (req, res) => {
-    res.send("Hi, I am Live !!");
+    res.send("Hi, Demo DB Is Live !!");
 });
 
 app.use("/api/products", products_routes);
